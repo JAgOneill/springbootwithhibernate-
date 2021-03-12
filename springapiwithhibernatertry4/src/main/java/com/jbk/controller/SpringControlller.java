@@ -41,7 +41,7 @@ public class SpringControlller {
 		return emplist;
 	}
 	
-	// we will add another api for payment gateway here 
+	// we will add another api for payment gateway here !!
 	@GetMapping("/getallreg")
 	public List<Registration>getAllreg()
 	{
